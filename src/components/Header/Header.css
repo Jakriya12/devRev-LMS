@@ -1,0 +1,20 @@
+.header-content{
+    min-height: 75vh;
+    background:  url("http://www.fubiz.net/wp-content/uploads/2016/05/hang-900x599.jpg") center/cover no-repeat;
+    background-position: 100%;
+    flex-direction: column;
+    
+}
+.header-title{
+    font-size: 4.2rem;
+    color: rgb(251, 255, 0);
+    
+    
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+    color: rgb(255, 255, 255);
+    font-weight:bolder;}
